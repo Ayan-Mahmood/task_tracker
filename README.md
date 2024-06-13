@@ -1,9 +1,9 @@
 Task Tracker Full Stack Website
 
-Full stack website using React, Bootstrap, Java/Spring Boot, and MySQL
-Still a work in progress
+Full stack website using React, Bootstrap, Java/Spring Boot, and MySQL. 
+Still a work in progress. 
 Planning to host the website soon need to work on it, 
-want to make a user sign-in page so multiple users can be supported first.
+want to make a user sign-in page so multiple users can be supported first. 
 
 
 DEMO:
